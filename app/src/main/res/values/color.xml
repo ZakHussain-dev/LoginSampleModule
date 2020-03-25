@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_button_normal_color">@color/md_grey50</color>
+    <color name="app_button_pressed_color">@color/material_grey200</color>
+</resources>
